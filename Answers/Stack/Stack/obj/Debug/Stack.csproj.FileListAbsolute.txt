@@ -1,0 +1,7 @@
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\bin\Debug\Stack.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\bin\Debug\Stack.pdb
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\obj\Debug\Stack.exe
+D:\Microsoft.Visual.Studio.2022\projects\University\Stack\Answers\Stack\Stack\obj\Debug\Stack.pdb
